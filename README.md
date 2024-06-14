@@ -4,7 +4,7 @@ A single page website for note-taking built with React.js.
 
 ![Notes Keeper](./resources/keeper_website.png)
 
-You can try the website [Here](#)
+You can try the website [Here](https://mohamedmbashir.github.io/notes-keeper-website/)
 
 ## Running Locally
 
